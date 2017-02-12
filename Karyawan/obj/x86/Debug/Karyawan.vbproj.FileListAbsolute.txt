@@ -1,0 +1,11 @@
+D:\OWN\Rianty\Karyawan\Karyawan\bin\Debug\Karyawan.exe
+D:\OWN\Rianty\Karyawan\Karyawan\bin\Debug\Karyawan.pdb
+D:\OWN\Rianty\Karyawan\Karyawan\bin\Debug\Karyawan.xml
+D:\OWN\Rianty\Karyawan\Karyawan\obj\x86\Debug\Karyawan.Resources.resources
+D:\OWN\Rianty\Karyawan\Karyawan\obj\x86\Debug\Karyawan.vbproj.GenerateResource.Cache
+D:\OWN\Rianty\Karyawan\Karyawan\obj\x86\Debug\Karyawan.exe
+D:\OWN\Rianty\Karyawan\Karyawan\obj\x86\Debug\Karyawan.xml
+D:\OWN\Rianty\Karyawan\Karyawan\obj\x86\Debug\Karyawan.pdb
+D:\OWN\Rianty\Karyawan\Karyawan\obj\x86\Debug\Karyawan.FrmPenggajian.resources
+D:\OWN\Rianty\Karyawan\Karyawan\obj\x86\Debug\Karyawan.FrmAddNewData.resources
+D:\OWN\Rianty\Karyawan\Karyawan\obj\x86\Debug\Karyawan.FrmFind.resources
